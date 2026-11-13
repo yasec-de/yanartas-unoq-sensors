@@ -7,4 +7,5 @@
 	(lib (name "BMFTR-Logo") (type "KiCad") (uri "${KIPRJMOD}/logos/BMFTR-Logo.pretty") (options "") (descr ""))
 	(lib (name "ashen-logo") (type "KiCad") (uri "${KIPRJMOD}/logos/ashen-logo.pretty") (options "") (descr ""))
 	(lib (name "ashen-logo-text") (type "KiCad") (uri "${KIPRJMOD}/logos/ashen-logo-text.pretty") (options "") (descr ""))
+	(lib (name "footprints") (type "KiCad") (uri "${KIPRJMOD}/footprints.pretty") (options "") (descr ""))
 )
