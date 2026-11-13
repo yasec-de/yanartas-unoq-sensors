@@ -3450,7 +3450,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:G-Switch GT-F0502SR20-30SMT01"
+		(property "Footprint" "footprints:FFC_30x0.5_ANY"
 			(at 220.98 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -3771,7 +3771,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:G-Switch GT-F0502SR20-30SMT01"
+		(property "Footprint" "footprints:FFC_30x0.5_ANY"
 			(at 172.72 58.42 0)
 			(hide yes)
 			(show_name no)
